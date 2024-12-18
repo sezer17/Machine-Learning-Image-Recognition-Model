@@ -1,4 +1,4 @@
-# Machine-Learning-Image-Recognition-Model
+# Machine Learning Image Recognition Model
 
 ## Project Overview
 This project involves building a **Convolutional Neural Network (CNN)** to classify images into 8 categories using the **Natural Images Dataset** from Kaggle. The model is implemented in TensorFlow/Keras and trained to recognize images belonging to the following classes:
